@@ -1,0 +1,11 @@
+[book]
+authors = ["Mark Henderson"]
+language = "en"
+multilingual = false
+title = "The Cerebro Manual"
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
