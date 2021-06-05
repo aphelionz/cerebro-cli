@@ -1,4 +1,9 @@
 # Summary
 
-- [Chapter 1: Context and Concepts](./chapter_1.md)
-- [Chapter 2: Tutorial](./chapter_2.md)
+- [Introduction](./introduction.md)
+- [Tutorial](#)
+    - [Installing Cerebro](./install.md)
+    - [Configuring and Running Cerebro](./usage.md)
+- [Contributing](#)
+    - [Code Contributions](./contributing.md)
+    - [Contributions to the Manual](./contributing_manual.md)

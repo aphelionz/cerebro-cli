@@ -114,6 +114,11 @@ candidates_found{app="cerebro"} 0
 
 Issues and PRs accepted. More info coming soon.
 
+### Contributing to the manual
+
+The manual is in mdBook format. To contribute you'll need `cargo`, `mdbook`, and
+`mdbook-mermaid`.
+
 ### Installing from Source
 
 ```bash
